@@ -24,8 +24,8 @@ public class ServerManager {
     HttpClient client;
     String code = "";
     String alternateURL;
-    String clientId = "a8cc81c8971c481d9328d3c660c9e625";
-    String clientSecret = "3a038490717240e3a80b8e5da61878b8";
+    String clientId = "xxxxxxxxxxxxxx";
+    String clientSecret = "xxxxxxxxxxxxxxx";
     String accessToken = "";
     String apiServerPath;
 
